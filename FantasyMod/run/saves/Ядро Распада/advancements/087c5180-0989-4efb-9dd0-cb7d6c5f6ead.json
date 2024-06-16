@@ -1,0 +1,206 @@
+{
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2024-04-27 23:10:51 +0400"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-04-27 22:51:20 +0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-04-27 22:51:18 +0400"
+    },
+    "done": true
+  },
+  "thinair:protection_from_red": {
+    "criteria": {
+      "protecc": "2024-04-27 23:00:52 +0400"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_dungeon_variant": "2024-04-27 23:10:04 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-05-22 00:23:54 +0400"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-04-27 22:51:20 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-05-22 00:23:54 +0400"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "shrubland": "2024-05-22 00:30:34 +0400",
+      "pine_taiga": "2024-05-22 00:36:58 +0400",
+      "muddy_river": "2024-04-27 23:01:44 +0400",
+      "autumnal_maple_forest": "2024-05-24 21:18:28 +0400",
+      "scorching_caves": "2024-04-27 23:10:51 +0400",
+      "ochard": "2024-05-22 00:28:44 +0400",
+      "highland_fields": "2024-05-24 21:18:25 +0400",
+      "magnolia_highlands": "2024-05-22 00:26:44 +0400",
+      "boreal_forest": "2024-04-27 23:02:08 +0400",
+      "bamboo_forest": "2024-05-26 13:14:05 +0400",
+      "temperate_grove": "2024-05-22 00:36:30 +0400",
+      "grassland": "2024-05-26 13:15:50 +0400",
+      "gravel_beach": "2024-04-27 23:08:19 +0400",
+      "golden_boreal_taiga": "2024-04-27 23:08:16 +0400",
+      "lupine_plains": "2024-05-22 00:26:59 +0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-04-27 23:02:11 +0400",
+      "minecraft:sunflower_plains": "2024-05-22 00:28:29 +0400",
+      "minecraft:birch_forest": "2024-05-26 16:12:40 +0400",
+      "minecraft:beach": "2024-05-22 00:27:13 +0400",
+      "minecraft:sparse_jungle": "2024-05-26 13:08:55 +0400",
+      "minecraft:lukewarm_ocean": "2024-04-27 23:00:50 +0400",
+      "minecraft:river": "2024-05-22 00:30:37 +0400",
+      "minecraft:dripstone_caves": "2024-04-27 23:09:58 +0400",
+      "minecraft:forest": "2024-05-22 00:26:39 +0400",
+      "minecraft:ocean": "2024-05-22 00:27:14 +0400",
+      "minecraft:old_growth_birch_forest": "2024-04-27 22:51:20 +0400",
+      "minecraft:meadow": "2024-04-27 23:09:37 +0400",
+      "minecraft:plains": "2024-05-22 00:27:19 +0400"
+    },
+    "done": false
+  },
+  "thinair:root": {
+    "criteria": {
+      "bad_air": "2024-04-27 23:00:52 +0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-04-27 22:51:18 +0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-04-27 22:53:29 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-05-22 00:23:54 +0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-05-26 17:27:58 +0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-04-27 22:51:18 +0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-04-27 22:51:18 +0400"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2024-05-26 16:32:10 +0400"
+    },
+    "done": true
+  },
+  "thinair:protection_from_yellow": {
+    "criteria": {
+      "protecc": "2024-04-27 23:00:52 +0400"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "shrubland": "2024-05-22 00:30:34 +0400",
+      "pine_taiga": "2024-05-22 00:36:58 +0400",
+      "muddy_river": "2024-04-27 23:01:44 +0400",
+      "autumnal_maple_forest": "2024-05-24 21:18:28 +0400",
+      "ochard": "2024-05-22 00:28:44 +0400",
+      "highland_fields": "2024-05-24 21:18:25 +0400",
+      "magnolia_highlands": "2024-05-22 00:26:44 +0400",
+      "boreal_forest": "2024-04-27 23:02:08 +0400",
+      "bamboo_forest": "2024-05-26 13:14:05 +0400",
+      "temperate_grove": "2024-05-22 00:36:30 +0400",
+      "grassland": "2024-05-26 13:15:50 +0400",
+      "gravel_beach": "2024-04-27 23:08:19 +0400",
+      "golden_boreal_taiga": "2024-04-27 23:08:16 +0400",
+      "lupine_plains": "2024-05-22 00:26:59 +0400"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-05-22 00:23:54 +0400"
+    },
+    "done": true
+  },
+  "buildersdelight:root": {
+    "criteria": {
+      "crafting_table": "2024-04-27 22:53:29 +0400"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "grass": "2024-04-27 23:00:50 +0400",
+      "dirt": "2024-05-22 00:43:07 +0400"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_pillager_camp": "2024-05-26 13:13:31 +0400",
+      "entered_dungeon_variant": "2024-04-27 23:10:04 +0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-04-27 23:45:24 +0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-04-27 23:03:13 +0400"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-05-26 17:29:09 +0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

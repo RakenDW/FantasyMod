@@ -1,0 +1,192 @@
+{
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2024-05-21 11:15:59 +0400"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-05-21 10:49:54 +0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-05-21 10:52:15 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-05-21 11:01:17 +0400"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2024-05-21 11:03:05 +0400"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-05-21 11:00:04 +0400"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-05-21 10:49:54 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-05-21 11:16:31 +0400"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "shrubland": "2024-05-21 11:03:07 +0400",
+      "ancient_delta": "2024-05-21 11:15:59 +0400",
+      "grassy_beach": "2024-05-21 10:57:01 +0400",
+      "magnolia_highlands": "2024-05-21 10:57:50 +0400",
+      "lupine_plains": "2024-05-21 10:52:51 +0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2024-05-21 11:12:52 +0400",
+      "minecraft:beach": "2024-05-21 10:57:03 +0400",
+      "minecraft:river": "2024-05-21 11:05:33 +0400",
+      "minecraft:forest": "2024-05-21 10:52:38 +0400",
+      "minecraft:ocean": "2024-05-21 10:55:39 +0400",
+      "minecraft:old_growth_birch_forest": "2024-05-21 10:50:50 +0400",
+      "minecraft:meadow": "2024-05-21 10:49:54 +0400",
+      "minecraft:plains": "2024-05-21 10:59:53 +0400"
+    },
+    "done": false
+  },
+  "thinair:root": {
+    "criteria": {
+      "bad_air": "2024-05-21 10:49:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-05-21 11:01:39 +0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-05-21 10:52:15 +0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-05-21 10:49:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-05-21 11:00:51 +0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-05-21 10:53:49 +0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2024-05-21 10:54:20 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-05-21 11:00:49 +0400"
+    },
+    "done": true
+  },
+  "thinair:protection_from_yellow": {
+    "criteria": {
+      "protecc": "2024-05-21 10:49:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-05-21 10:54:41 +0400"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "shrubland": "2024-05-21 11:03:07 +0400",
+      "grassy_beach": "2024-05-21 10:57:01 +0400",
+      "magnolia_highlands": "2024-05-21 10:57:50 +0400",
+      "lupine_plains": "2024-05-21 10:52:51 +0400"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-05-21 11:13:35 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-05-21 11:00:55 +0400"
+    },
+    "done": true
+  },
+  "buildersdelight:root": {
+    "criteria": {
+      "crafting_table": "2024-05-21 10:52:15 +0400"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2024-05-21 10:52:15 +0400"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2024-05-21 11:13:24 +0400",
+      "entered_ruined_building": "2024-05-21 11:03:05 +0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-05-21 11:00:04 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-05-21 11:01:20 +0400"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-05-21 10:53:49 +0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
