@@ -1,5 +1,7 @@
 public class Mine {
     public static void main(String[] args) {
-        player.sendMessage("???", "tEst");
+        player.addddtimer(() -> {
+            player.sendMessage("ALBLAK 52","+7(952)812");
+        },5);
     }
 }
